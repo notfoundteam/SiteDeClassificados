@@ -1,4 +1,4 @@
-<?php require 'pages/header.php'; ?>
+<?php require 'pages/header2.php'; ?>
 <?php
 if(empty($_SESSION['cLogin'])) {
 	?>

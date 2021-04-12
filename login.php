@@ -1,4 +1,4 @@
-<?php require 'pages/header.php'; ?>
+<?php require 'pages/header2.php'; ?>
 <div class="container">
 	<h1>Login</h1>
 	<?php

@@ -1,4 +1,4 @@
-<?php require 'pages/header.php'; ?>
+<?php require 'pages/header2.php'; ?>
 <div class="container">
 	<h1>Cadastre-se</h1>
 	<?php
