@@ -24,7 +24,7 @@ if(isset($_GET['p']) && !empty($_GET['p'])) {
 	$p = addslashes($_GET['p']);
 }
 
-$por_pagina = 2;
+$por_pagina = 10;
 $total_paginas = ceil($total_anuncios / $por_pagina);
 
 $anuncios = $a->getUltimosAnuncios($p, $por_pagina, $filtros);
